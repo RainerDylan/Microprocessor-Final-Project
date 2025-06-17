@@ -2,7 +2,7 @@
 IAMDS is a proof-of-concept for a low-cost, open-source Advanced Driver-Assistance System (ADAS) built for a model vehicle. This project demonstrates how affordable microcontrollers and sensors can be used to implement critical safety features like Autonomous Emergency Braking (AEB) and Adaptive Cruise Control (ACC).
 The system operates on two main components: the vehicle itself, which acts on commands and sensor data, and a custom-built remote control that provides the human-machine interface. Communication is handled by a real-time, bidirectional 2.4GHz wireless link, allowing the remote to send control inputs and the vehicle to send back crucial telemetry data.
 
-# Group 4 - ECE 372A Microcontroller Organization
+# Group 4 - ECE 372A Microprocessor Organization
 - Edison
 - Dzaky
 - Rainer
